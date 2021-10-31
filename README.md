@@ -3,6 +3,8 @@
 
 ### This is Martín Federico Pissoni!!!
 
+Hi there!! Welcome to my GitHub profile, my name is Martin Federico Pissoni, I'm from Argentina, technology and video-games lover, Systems Analyst Student. 
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mpissoni24)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martin-federico-pissoni-0a63091b8/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mpissoni24@gmail.com)
